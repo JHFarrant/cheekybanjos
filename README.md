@@ -1,3 +1,5 @@
+![](https://travis-ci.org/JHFarrant/cheekybanjos.svg?branch=master)
+
 # Cheeky Banjos (Unofficial Nandos Delivery Python Client)
 
 ### For people who need chicken and don't have time to leave the terminal
