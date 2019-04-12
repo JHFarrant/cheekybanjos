@@ -1,0 +1,14 @@
+{
+  "hash": "8c737ddef8e84669ba9389a96f341a99",
+
+  "gateway": "adyen",
+  "3ds": {
+    "enrolled": false
+  },
+  "requestInfo": {
+    "accessTokenStatus": "authenticated",
+    "serverTime": 1553112868,
+    "requestId": "6a656b07-66ed-49dc-b513-ccbd5f03fc23",
+    "apiVersion": 2
+  }
+}

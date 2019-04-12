@@ -1,0 +1,136 @@
+{
+  "userAddresses": [
+    {
+      "id": "123456",
+      "line1": "Buckingham Palace",
+      "line2": "",
+      "city": "London",
+      "postCode": "SW1A 1AA",
+      "county": "",
+      "location": {
+        "lat": 51.501511,
+        "lon": -0.141901
+      }
+    }
+  ],
+  "suggestedAddresses": [
+    {
+      "id": null,
+      "line1": "Buckingham Palace",
+      "line2": "",
+      "city": "London",
+      "postCode": "SW1A 1AA",
+      "county": "",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "id": null,
+      "line1": "Buckingham Palace Gardens",
+      "line2": "",
+      "city": "London",
+      "postCode": "SW1A 1AA",
+      "county": "",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
+    },
+    {
+      "id": null,
+      "line1": "Flat 3b Buckingham Palace",
+      "line2": "",
+      "city": "London",
+      "postCode": "SW1A 1AA",
+      "county": "",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
+    }
+  ],
+  "countryCode": "44",
+  "phone": "07712345678",
+  "slots": [
+    {
+      "deliveryTime": "2019-03-20T20:49:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T20:54:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T20:59:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T21:04:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T21:09:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T21:14:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T21:19:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T21:24:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T21:29:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T21:34:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T21:39:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T21:44:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T21:49:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T21:54:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T21:59:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T22:04:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T22:09:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T22:14:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T22:19:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T22:24:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T22:29:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T22:34:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T22:39:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T22:44:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T22:49:10+00:00"
+    },
+    {
+      "deliveryTime": "2019-03-20T22:54:10+00:00"
+    }
+  ]
+}

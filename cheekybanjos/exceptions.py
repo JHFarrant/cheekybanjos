@@ -1,0 +1,2 @@
+class CheekyException(Exception):
+	pass

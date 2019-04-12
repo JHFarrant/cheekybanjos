@@ -1,0 +1,23 @@
+{
+  "default": "123456",
+  "addresses": [
+    {
+      "id": "123456",
+      "line1": "Buckingham Palace",
+      "line2": "",
+      "city": "London",
+      "postCode": "SW1A 1AA",
+      "county": "",
+      "location": {
+        "lat": 51.501511,
+        "lon": -0.141901
+      }
+    }
+  ],
+  "requestInfo": {
+    "accessTokenStatus": "authenticated",
+    "serverTime": 1554252244,
+    "requestId": "de28a727-de6d-4a45-8dea-0d35940dc87e",
+    "apiVersion": 1
+  }
+}

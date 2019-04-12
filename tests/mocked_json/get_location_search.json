@@ -1,0 +1,34 @@
+{
+  "deliveryEstimate": {
+    "locationId": 735,
+    "deliveryTime": null,
+    "acceptingOrders": false,
+    "open": false,
+    "locationName": "Victoria Wilton Road",
+    "address": {
+      "line1": "Units 1 & 2",
+      "line2": "107-108 Wilton Road",
+      "city": "London",
+      "postCode": "SW1V 1DZ",
+      "latLng": {
+        "lat": 51.493572,
+        "lng": -0.141555
+      },
+      "country": "United Kingdom",
+      "countryCodeId": 221,
+      "countryCode": "GB"
+    },
+    "contactNumber": "0207 976 5719",
+    "restaurantInfoURL": "https:\/\/www.nandos.co.uk\/restaurants\/victoria-wilton-road-london",
+    "deliveryURL": "https:\/\/get.nandos.co.uk\/menu\/735\/3\/fire-starters\/fire-starters\/",
+    "collectionURL": "https:\/\/takeaway.nandos.co.uk\/Restaurant?selectSite=123",
+    "combinedPlatform": false,
+    "amenities": {
+      "isWheelchairAccessible": true,
+      "isHalalFriendly": false
+    },
+    "costCentre": "N105"
+  },
+  "collectionLocations": [
+  ]
+}

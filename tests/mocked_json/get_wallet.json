@@ -1,0 +1,14 @@
+{
+  "default": 1,
+  "wallet": [
+    {
+      "id": 1,
+      "expiryMonth": "1",
+      "expiryYear": "23",
+      "last4Digits": "1111",
+      "cardType": "MASTERCARD",
+      "nickname": "Bob The Builder",
+      "temporary": false
+    }
+  ]
+}
