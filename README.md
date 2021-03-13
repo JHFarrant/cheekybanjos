@@ -1,5 +1,7 @@
 ![](https://travis-ci.org/JHFarrant/cheekybanjos.svg?branch=master)
 
+⚠️ Deprecated - No longer working with current API⚠️ : See https://github.com/JHFarrant/cheekybanjos/issues/1
+
 # Cheeky Banjos (Unofficial Nandos Delivery Python Client)
 
 ### For people who need chicken and don't have time to leave the terminal
